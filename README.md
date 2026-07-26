@@ -1,4 +1,4 @@
-# RS Hosting Bot 🤖
+# RS VPS BOT HOSTING PANEL 🤖
 
 <div align="center">
 
