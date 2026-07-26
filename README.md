@@ -1,77 +1,72 @@
-RS Hosting Bot 🤖
+# RS Hosting Bot 🤖
 
 <div align="center">
 
-https://img.shields.io/badge/RS-Hosting%20Bot-blue?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/Version-3.2-green?style=flat-square
-https://img.shields.io/badge/Python-3.7+-yellow?style=flat-square&logo=python
-https://img.shields.io/badge/License-MIT-red?style=flat-square
+![RS Hosting Bot](https://img.shields.io/badge/RS-Hosting%20Bot-blue?style=for-the-badge&logo=telegram)
+![Version](https://img.shields.io/badge/Version-3.2-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.7+-yellow?style=flat-square&logo=python)
+![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)
 
-Ultra-Professional Telegram Bot Hosting Platform
+**Ultra-Professional Telegram Bot Hosting Platform**
 
-https://img.shields.io/badge/Telegram-@rs__woner-blue?style=flat-square&logo=telegram
-https://img.shields.io/badge/Channel-@CARTOONFUNNY03-blue?style=flat-square&logo=telegram
+[![Telegram](https://img.shields.io/badge/Telegram-@rs__woner-blue?style=flat-square&logo=telegram)](https://t.me/rs_woner)
+[![Channel](https://img.shields.io/badge/Channel-@CARTOONFUNNY03-blue?style=flat-square&logo=telegram)](https://t.me/CARTOONFUNNY03)
 
 </div>
 
 ---
 
-📋 Table of Contents
-
-· Features
-· Requirements
-· Installation
-· Configuration
-· How It Works
-· Commands & Buttons
-· Bot Management
-· Admin Panel
-· Database Structure
-· File Structure
-· Security Features
-· Contributing
-· License
-· Contact
-
----
-
-✨ Features
-
-Core Features
-
-· ✅ Isolated Virtual Environments - Each bot runs in its own venv (no dependency conflicts)
-· ✅ Unique UUID Folders - Safe deletion without affecting other bots
-· ✅ Auto-Import Detection - Scans your code and automatically installs required packages
-· ✅ requirements.txt Support - Works with existing requirements.txt files inside ZIP
-· ✅ Persistent Logs - Live log viewing per bot
-· ✅ Crash-Proof Architecture - Hosted bots never crash the main host bot
-· ✅ Smart File Management - Automatic duplicate name handling
-· ✅ Profile Photo Support - Welcome message with user's profile photo
-
-User Features
-
-· 📤 Upload .py or .zip files
-· 📂 View all your hosted bots
-· 🟢 Start/Stop/Restart bots
-· 📜 View live logs
-· 🗑️ Delete bots
-· 💳 Premium subscription system
-
-Admin Features
-
-· 👑 Admin panel
-· 💳 Manage subscriptions
-· 📢 Broadcast messages
-· 🔒 Lock/Unlock bot
-· 🟢 Run all bots
-· 👥 User management
+## 📋 Table of Contents
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [How It Works](#-how-it-works)
+- [Commands & Buttons](#-commands--buttons)
+- [Bot Management](#-bot-management)
+- [Admin Panel](#-admin-panel)
+- [Database Structure](#-database-structure)
+- [File Structure](#-file-structure)
+- [Security Features](#-security-features)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
-🔧 Requirements
+## ✨ Features
 
-System Requirements
+### Core Features
+- ✅ **Isolated Virtual Environments** - Each bot runs in its own venv (no dependency conflicts)
+- ✅ **Unique UUID Folders** - Safe deletion without affecting other bots
+- ✅ **Auto-Import Detection** - Scans your code and automatically installs required packages
+- ✅ **requirements.txt Support** - Works with existing requirements.txt files inside ZIP
+- ✅ **Persistent Logs** - Live log viewing per bot
+- ✅ **Crash-Proof Architecture** - Hosted bots never crash the main host bot
+- ✅ **Smart File Management** - Automatic duplicate name handling
+- ✅ **Profile Photo Support** - Welcome message with user's profile photo
 
+### User Features
+- 📤 Upload `.py` or `.zip` files
+- 📂 View all your hosted bots
+- 🟢 Start/Stop/Restart bots
+- 📜 View live logs
+- 🗑️ Delete bots
+- 💳 Premium subscription system
+
+### Admin Features
+- 👑 Admin panel
+- 💳 Manage subscriptions
+- 📢 Broadcast messages
+- 🔒 Lock/Unlock bot
+- 🟢 Run all bots
+- 👥 User management
+
+---
+
+## 🔧 Requirements
+
+### System Requirements
 ```bash
 Python 3.7 or higher
 pip (Python package manager)
@@ -85,8 +80,8 @@ Required Python Packages
 pyTelegramBotAPI==4.24.0
 requests==2.31.0
 psutil==5.9.5
-python-dotenv==1.0.0  # optional
-colorama==0.4.6       # optional
+python-dotenv==1.0.0
+colorama==0.4.6
 ```
 
 Installation Commands
