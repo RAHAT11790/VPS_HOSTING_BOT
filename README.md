@@ -101,7 +101,7 @@ pip install pyTelegramBotAPI requests psutil
 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/rs-hosting-bot.git
+git clone https://github.com/RAHAT11790/VPS_HOSTING_BOT
 cd rs-hosting-bot
 ```
 
