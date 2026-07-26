@@ -1,4 +1,4 @@
-# RS BOT HOST PANEL 🤖
+# RS BOT HOST 🤖
 
 <div align="center">
 
